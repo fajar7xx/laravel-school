@@ -22,7 +22,7 @@
     "dependencies": {
         "@ckeditor/ckeditor5-build-classic": "^18.0.0",
         "@fortawesome/fontawesome-free": "^5.12.1",
-        "datatables.net": "^1.10.20",
+        "datatables.net": "^1.10.22",
         "datatables.net-bs4": "^1.10.20",
         "datatables.net-dt": "^1.10.20",
         "jquery": "^3.4.1",
